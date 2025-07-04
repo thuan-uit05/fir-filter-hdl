@@ -28,7 +28,7 @@ It includes:
 ```
 .
 ├── Non-optimal/
-│   ├── fir (1).v
+│   ├── fir.v
 │   ├── fir_wishbone.v
 │   ├── wishbone.v
 │   └── testbench.v
